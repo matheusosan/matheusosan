@@ -15,8 +15,10 @@
 
 <div>
   <h2>Status e linguagens mais utilizadas</h2>
-  <img width="40%" height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusosan&show_icons=true&theme=github_dark" />
-  <img width="40%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusosan&layout=compact&theme=github_dark" />
+  <div align="center">
+    <img width="40%" height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusosan&show_icons=true&theme=github_dark" />
+    <img width="40%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusosan&layout=compact&theme=github_dark" />
+  </div>
 </div>
 
 <div style="display: inline_block"><br>
