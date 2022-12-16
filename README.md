@@ -1,6 +1,6 @@
 <div>
-<h1 align="center">Olá, me chamo Matheus Santana</h1>
-<h3 align="center">Desenvolvedor Front End</h3>
+<h1 align="center">👋🏻 Olá, eu sou o Matheus Santana</h1>
+<h3 align="center">👨🏻‍💻 Desenvolvedor Front End</h3>
 </div>
 
 ### Um pouco sobre mim
